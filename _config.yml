@@ -1,7 +1,7 @@
 name: arlyn culwick
 favicon: null
 layout_spectrum: 0.6453527121338993
-typography_spectrum: 0.708087666425854
+typography_spectrum: 0.12872
 title: arlyn culwick
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.9339842749759555
+    - '#131313'
+    - '#6e6e6e'
+    - '#383838'
+    - '#8a8a8a'
+    - '#c6c6c6'
+  brandStrength: 0.9375
   lightness: 0.7680083208251745
   saturation: 0.393797991797328
   rhythmicContrast: 0.1290566106326878
