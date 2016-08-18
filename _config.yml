@@ -1,20 +1,4 @@
-name: arlyn culwick
-favicon: null
-layout_spectrum: 0.89647
 typography_spectrum: 0.12872
-title: arlyn culwick
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#131313'
@@ -26,4 +10,24 @@ color:
   lightness: 0.7680083208251745
   saturation: 0.393797991797328
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.89647
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: arlyn culwick
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Myths of Kenosis
+    url: 'http://mythsofkenosis.wordpress.com'
+    type: external
+favicon: null
+title: arlyn culwick
 purpose: []
